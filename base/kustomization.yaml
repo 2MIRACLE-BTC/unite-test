@@ -4,4 +4,4 @@ resources:
   - frontend.yaml
   - db.yaml
   - discounts.yaml
-  - frontend.yaml
+  - advertisements.yaml
