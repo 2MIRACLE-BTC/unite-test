@@ -5,3 +5,4 @@ resources:
   - db.yaml
   - discounts.yaml
   - advertisements.yaml
+  - storageclass.yaml
