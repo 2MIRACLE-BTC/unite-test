@@ -3,7 +3,7 @@ kind: Kustomization
 images:
 - name: 241825837502.dkr.ecr.ap-northeast-2.amazonaws.com/cowbrow
   newName: 241825837502.dkr.ecr.ap-northeast-2.amazonaws.com/cowbrow
-  newTag: b315baab
+  newTag: 0a25d4dc
 resources:
 - ../../base
 patchesStrategicMerge:
