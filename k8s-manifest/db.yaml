@@ -21,7 +21,7 @@ data:
     labels:
       type: local
   spec:
-    #storageClassName: manual 
+    storageClassName: manual 
     capacity:
       storage: 5Gi
     accessModes:
@@ -40,7 +40,7 @@ spec:
   resources:
     requests:
       storage: 1Gi
-  storageClassName: manual
+  #storageClassName: manual
 ---
 apiVersion: apps/v1
 kind: Deployment
