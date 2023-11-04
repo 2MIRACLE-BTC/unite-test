@@ -4,6 +4,9 @@ images:
 - name: 241825837502.dkr.ecr.ap-northeast-2.amazonaws.com/cowbrow
   newName: 241825837502.dkr.ecr.ap-northeast-2.amazonaws.com/cowbrow
   newTag: 0a25d4dc
+- name: 241825837502.dkr.ecr.ap-northeast-2.amazonaws.com/frontend
+  newName: 241825837502.dkr.ecr.ap-northeast-2.amazonaws.com/frontend
+  newTag: 515f863b
 resources:
 - ../../base
 patchesStrategicMerge:
