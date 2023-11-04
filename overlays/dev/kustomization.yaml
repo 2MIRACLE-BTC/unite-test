@@ -9,7 +9,7 @@ images:
   newTag: 22faedff
 - name: 241825837502.dkr.ecr.ap-northeast-2.amazonaws.com/discounts
   newName: 241825837502.dkr.ecr.ap-northeast-2.amazonaws.com/discounts
-  newTag: 22faedff
+  newTag: 1b6bc80a
 - name: 241825837502.dkr.ecr.ap-northeast-2.amazonaws.com/frontend
   newName: 241825837502.dkr.ecr.ap-northeast-2.amazonaws.com/frontend
   newTag: 515f863b
