@@ -23,7 +23,7 @@ spec:
         app: ecommerce
     spec:
       containers:
-      - image: public.ecr.aws/q4d5d7v1/dakill:adv-ver-1
+      - image: 241825837502.dkr.ecr.ap-northeast-2.amazonaws.com/ads_v1:22faedff
         name: advertisements
         command: ["ddtrace-run"]
         args: ["flask", "run", "--port=5002", "--host=0.0.0.0"]
